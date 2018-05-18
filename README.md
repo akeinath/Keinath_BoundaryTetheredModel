@@ -17,7 +17,7 @@ Before each simulation is carried out, the path is generated and the activity of
 
 https://www.mathworks.com/matlabcentral/fileexchange/27205-fast-line-segment-intersection?focused=5150921&tab=function
 
-The results are contained in the zip file 'Nets'. The rate map data for each of these experiments can be loaded into a more useful form by using the function getMapsFromNets(Folder), where folder specifies the folder containing all the simulations for a particular experiment. For an example of this use, see the end of ExperimentWrappers/Stensola_2012
+The results are contained in the folder 'Nets'. The rate map data for each of these experiments can be loaded into a more useful form by using the function getMapsFromNets(Folder), where folder specifies the folder containing all the simulations for a particular experiment. For an example of this use, see the end of ExperimentWrappers/Stensola_2012
 
 This code is provided for use without any responsibility assumed on our part. If you use it, please cite the paper! For any questions or comments, please contact me at: atkeinath@gmail.com
 
